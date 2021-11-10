@@ -1,2 +1,2 @@
 # hello-world
-Learning about GitHub
+Learning about GitHub and coding.
